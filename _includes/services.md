@@ -4,6 +4,7 @@
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://sites.math.washington.edu/~jarod/xll.html">Experimental Lean Lab</a> 2021-present</li>
+  <li><a href="https://sites.uw.edu/wdrp/">Directed Reading Program</a> 2021</li>
   <li><a href="https://sites.math.washington.edu/~mathcircle/circle/">UW Math Circle</a> 2020-2021</li>
 </ul>
 
