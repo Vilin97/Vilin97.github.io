@@ -3,7 +3,7 @@ main:
   - title: Transport based particle methods for the Fokker-Planck-Landau equation
     authors: <strong>Vasily Ilin</strong>, Jingwei Hu, Zhenfu Wang
     # conference_short: MICCAI
-    # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    conference: Preprint, 2024.
     pdf: https://arxiv.org/pdf/2405.10392
     code: https://github.com/Vilin97/GradientFlows.jl
     image: ./assets/img/tokamak picture.png
