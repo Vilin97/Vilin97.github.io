@@ -1,22 +1,30 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Transport based particle methods for the Fokker-Planck-Landau equation
+    authors: <strong>Vasily Ilin</strong>, Jingwei Hu, Zhenfu Wang
+    # conference_short: MICCAI
+    # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2405.10392
+    code: https://github.com/Vilin97/GradientFlows.jl
+    image: ./assets/img/tokamak picture.png
+    description: An algorithm for deterministic sampling by integrating the Fokker-Planck equation using particles.
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Extending JumpProcesses.jl for fast point process simulation with time-varying intensities"
+    authors: Guilherme Augusto Zagatti, Samuel A Isaacson, Christopher Rackauckas, <strong>Vasily Ilin</strong>, See-Kiong Ng, Stéphane Bressan
+    conference_short: JCon
+    conference: JuliaCon, 2023.
+    pdf: https://arxiv.org/pdf/2306.06992
+    code: https://github.com/SciML/JumpProcesses.jl
+    page: https://proceedings.juliacon.org/papers/10.21105/jcon.00133
+    image: ./assets/img/jumpprocesses teaser.png
+    description: An algorithm to efficiently simulate any point process on the real line with a continuous intensity rate.
+  
+  - title: "Catalyst: Fast and flexible modeling of reaction network"
+    authors: Torkel E. Loman, Yingbo Ma, <strong>Vasily Ilin</strong>, Shashi Gowda, Niklas Korsbo, Nikhil Yewale, Chris Rackauckas, Samuel A. Isaacson
+    conference_short: PLOS
+    conference: PLOS Computational Biology, 2023
+    pdf: https://journals.plos.org/ploscompbiol/article/authors?id=10.1371/journal.pcbi.1011530
+    code: https://github.com/SciML/Catalyst.jl
+    page: https://www.youtube.com/watch?v=tVfxT09AtWQ
+    image: ./assets/img/catalyst image.jpg
+    description: Julia library for modeling and high-performance simulation of chemical reaction networks.

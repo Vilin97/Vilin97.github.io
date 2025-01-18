@@ -1,16 +1,15 @@
 ## Services
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+<h4 style="margin:0 10px 0;">Teaching</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021-2023</autocolor></a></li>
-  <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2021</autocolor></a></li>
-  <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
+  <li><a href="https://sites.math.washington.edu/~jarod/xll.html">Experimental Lean Lab</a> 2021-present</li>
+  <li><a href="https://sites.math.washington.edu/~mathcircle/circle/">UW Math Circle</a> 2020-2021</li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+<h4 style="margin:0 10px 0;">Open Source Software</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
+  <li><a href="https://github.com/SciML/JumpProcesses.jl/pulls?q=is%3Apr+author%3Avilin97+">JumpProcesses.jl</a>  2019-2023</li>
+  <li><a href="https://github.com/leanprover-community/mathlib4/pulls?q=is%3Apr+author%3Avilin97+">Mathlib4</a> 2024-present</li>
 </ul>
