@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at the University of Washington.
+I am a Ph.D. student at the University of Washington, working with [Jingwei Hu](https://jingweihu-math.github.io/webpage/).
 
 I grew up in Moscow, Russia. At 17 I moved to Boston to attend Boston University. My first academic interest was economics but I switched to math mid-way. In 2017 I spent a semester in Auckland, New Zealand, where I took my first proof based-math class. In 2019 I graduated from BU but stayed another year for a Masters degree in computer science, graduating in 2020. I started my PhD in pure math at the University of Washington in 2020, working on algebraic topology, but switched to applied math in 2022 after the first internship at Google. Since then I have worked on applications of deep learning and interacting particle systems to the Landau equation and to sampling.
 
@@ -27,8 +27,10 @@ I grew up in Moscow, Russia. At 17 I moved to Boston to attend Boston University
 
 {% include_relative _includes/talks.md %}
 
+{% include_relative _includes/work.md %}
+
 {% include_relative _includes/services.md %}
 
-{% include_relative _includes/projects.md %}
-
 {% include_relative _includes/teaching.md %}
+
+{% include_relative _includes/projects.md %}
