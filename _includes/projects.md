@@ -1,5 +1,6 @@
 ## Projects
 <ul style="margin:0 0 5px;">
+    <li><a href="https://github.com/Vilin97/score-based-tutorial">Conditional Score-based generative modeling</a> (PyTorch) - Implemented conditional score-based generative modeling on MNIST from scratch.</li>
     <li><a href="https://github.com/Vilin97/central_limit_theorem">Formalizing Central Limit Theorem</a> (Lean4) - Formalized several lemmas on the way to the full CLT formalization, pushed them upstream to mathlib4.</li>
     <li><a href="https://github.com/Vilin97/TelegramAIbot">AI DnD Bot</a> (OpenAI API, PostgreSQL) - Telegram bot for Dungeons & Dragons with long- and short-term memory and image generation features.</li>
     <li><a href="https://github.com/Vilin97/SVGD-reimplementation">Stein Variational Gradient Descent</a> (Jax) - Analyzed SVGD algorithm for deterministic sampling (<a href="https://github.com/Vilin97/SVGD-reimplementation/blob/main/AMATH_590_SVGD_report.pdf">report</a>).</li>

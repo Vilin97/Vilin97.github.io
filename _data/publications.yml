@@ -1,21 +1,28 @@
 main:
 
+  - title: "RealEdit: Reddit Edits As a Large-scale Empirical Dataset for Image Transformations"
+    authors: Petr Sushko, Ayana Bharadwaj, Zhi Yang Lim, <strong>Vasily Ilin</strong>, Ben Caffee, Dongping Chen, Mohammadreza Salehi, Cheng-Yu Hsieh, Ranjay Krishna
+    conference_short: CVPR
+    conference: Submitted to CVPR, 2025
+    page: https://peter-sushko.github.io/RealEdit/
+    image: ./assets/img/realedit teaser.png
+    description: A dataset and a diffusion generative model to perform arbitrary image edits. The first global edit model trained on real data.
+
   - title: Transport based particle methods for the Fokker-Planck-Landau equation
     authors: <strong>Vasily Ilin</strong>, Jingwei Hu, Zhenfu Wang
-    # conference_short: MICCAI
-    conference: Preprint, 2024.
+    conference_short: CMS
+    conference: Submitted to Communications in Mathematical Sciences, 2025.
     pdf: https://arxiv.org/pdf/2405.10392
     code: https://github.com/Vilin97/GradientFlows.jl
     image: ./assets/img/tokamak picture.png
-    description: An algorithm for deterministic sampling by integrating the Fokker-Planck equation using particles.
+    description: An algorithm for simulation of plasma using a neural network, inspired by score-based generative modeling.
 
   - title: "Extending JumpProcesses.jl for fast point process simulation with time-varying intensities"
     authors: Guilherme Augusto Zagatti, Samuel A Isaacson, Christopher Rackauckas, <strong>Vasily Ilin</strong>, See-Kiong Ng, Stéphane Bressan
     conference_short: JCon
     conference: JuliaCon, 2023.
-    pdf: https://arxiv.org/pdf/2306.06992
+    pdf: https://proceedings.juliacon.org/papers/10.21105/jcon.00133
     code: https://github.com/SciML/JumpProcesses.jl
-    page: https://proceedings.juliacon.org/papers/10.21105/jcon.00133
     image: ./assets/img/jumpprocesses teaser.png
     description: An algorithm to efficiently simulate any point process on the real line with a continuous intensity rate.
   
@@ -25,6 +32,6 @@ main:
     conference: PLOS Computational Biology, 2023
     pdf: https://journals.plos.org/ploscompbiol/article/authors?id=10.1371/journal.pcbi.1011530
     code: https://github.com/SciML/Catalyst.jl
-    page: https://www.youtube.com/watch?v=tVfxT09AtWQ
+    video: https://www.youtube.com/watch?v=tVfxT09AtWQ
     image: ./assets/img/catalyst image.jpg
     description: Julia library for modeling and high-performance simulation of chemical reaction networks.

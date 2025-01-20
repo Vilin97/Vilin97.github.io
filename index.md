@@ -10,9 +10,9 @@ I grew up in Moscow, Russia. At 17 I moved to Boston to attend Boston University
 
 ## Research Interests
 
-- **Interacting particle systems:** solve Fokker-Planck-type equations using neural networks.
-- **Math formalization:** use Lean to formalize mathematics.
-- **Machine learning:** use machine learning to solve practical problems.
+- **Scientific computing:** solve high-dimensional PDEs using interacting particle systems and neural networks.
+- **Deep learning:** understand why deep learning scales well.
+- **Math formalization:** accelerate mathematics research with Lean and AI.
 
 ## News
 
@@ -24,6 +24,8 @@ I grew up in Moscow, Russia. At 17 I moved to Boston to attend Boston University
 - **[Feb. 2024]** Passed my general exam.
 
 {% include_relative _includes/publications.md %}
+
+{% include_relative _includes/talks.md %}
 
 {% include_relative _includes/services.md %}
 

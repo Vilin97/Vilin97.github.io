@@ -1,0 +1,17 @@
+main:
+
+  - title: "Deterministic sampling with adaptive score based transport modeling"
+    authors: <strong>Vasily Ilin</strong>
+    conference_short: JMM
+    conference: Joint Mathematics Meetings, 2025
+    abstract: https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Paper/40036
+    image: ./assets/img/sampling circle distribution.png
+    description: An algorithm for deterministic sampling by integrating the Fokker-Planck equation using particles.
+
+  - title: "Community and Mentorship Through the Experimental Lean Lab"
+    authors: Jarod Alper, Herman Chau, <strong>Vasily Ilin</strong>
+    conference_short: JMM
+    conference: Joint Mathematics Meetings, 2025
+    abstract: https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Paper/44733
+    image: ./assets/img/xll logo.jpeg
+    description: Lessons learned in building community and mentoring undergraduate research projects in Lean.
