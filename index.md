@@ -11,7 +11,6 @@ I grew up in Moscow, Russia. At 17 I moved to Boston to attend Boston University
 ## Research Interests
 
 - **Scientific computing:** solve high-dimensional PDEs using interacting particle systems and neural networks.
-- **Deep learning:** understand why deep learning scales well.
 - **Math formalization:** accelerate mathematics research with Lean and AI.
 
 ## News
