@@ -1,4 +1,4 @@
-## Work
+## Work Experience
 
 <ul style="margin:0 0 5px;">
     <li>[2024] ML Intern at Google Cloud (Python, SQL) - Trained XGBoost to predict defective TPUs from telemetry, achieved 80% accuracy and improved test efficiency 4x.</li>
