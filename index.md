@@ -33,13 +33,3 @@ I grew up in Moscow, Russia. At 17 I moved to Boston to attend Boston University
 {% include_relative _includes/teaching.md %}
 
 {% include_relative _includes/projects.md %}
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-WK58TVWLPK"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-WK58TVWLPK');
-</script>
